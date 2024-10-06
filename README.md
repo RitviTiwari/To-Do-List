@@ -18,3 +18,6 @@ The to-do app is a task management tool designed to help users organize their da
 - **Local Storage**: Tasks are stored in the browser's localStorage, which allows for persistent data storage without a backend server.
 
 - **Event Handling**: JavaScript handles user interactions, such as adding tasks, marking them as completed, and deleting them, using event listeners.
+
+## Screenshots:
+https://github.com/RitviTiwari/To-Do-App/blob/main/_C__Users_tiwar_OneDrive_Desktop_webtech_TO-DO%2520APP_index.html.png
