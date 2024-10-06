@@ -21,3 +21,5 @@ The to-do app is a task management tool designed to help users organize their da
 
 ## Screenshots:
 https://github.com/RitviTiwari/To-Do-App/blob/main/_C__Users_tiwar_OneDrive_Desktop_webtech_TO-DO%2520APP_index.html.png
+
+https://github.com/RitviTiwari/To-Do-App/blob/main/todo-1st.png
